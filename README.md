@@ -54,11 +54,11 @@ The projects directory structure can be seen below.
 ## Authors
 
 The team consists of the following members: 
-* Taylor Balsky
-* Adam Cormier
-* Campbell Harris
-* Xiaoyu Ren
-* Nigel Vasoff
+* [Taylor Balsky](https://github.com/taylorbalsky)
+* [Adam Cormier](https://github.com/adamcorm28)
+* [Campbell Harris](https://github.com/CampbellHarris02)
+* [Xiaoyu (Sean) Ren](https://github.com/SeanRen01)
+* [Nigel Vasoff](https://github.com/Lques)
 
 
 ## Acknowledgements
