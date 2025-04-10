@@ -61,26 +61,6 @@ The team consists of the following members:
 * Nigel Vasoff
 
 
-## Authors
-
-The team consists of the following members: 
-* Taylor Balsky
-* Adam Cormier
-* Campbell Harris
-* Xiaoyu Ren
-* Nigel Vasoff
-
-
-## Authors
-
-The team consists of the following members: 
-* Taylor Balsky
-* Adam Cormier
-* Campbell Harris
-* Xiaoyu Ren
-* Nigel Vasoff
-
-
 ## Acknowledgements
 
 The team would like to thank Dr. Fady Alajaji for assisting with the project.
