@@ -1,10 +1,8 @@
 # Effective Transmission and Classification of Compressed Wildfire Images Over Noisy Channels with Memory
 
-Simple overview of use/purpose.
-
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Satellite images are compressed and transmitted over a noisy channel with memory, and a neural network is used to classify whether the images have a wildifire. Both scalar and vector quantization is implemented. A comparison between generic Lloyd-max quantization versus channel optimized quantization is opserved. 
 
 ## Project Structure
 
@@ -76,3 +74,6 @@ The team consists of the following members:
 ## Acknowledgements
 
 The team would like to thank Dr. Fady Alajaji for assisting with the project.
+
+All the data used to test and train on was gathered from the following link:
+https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset
