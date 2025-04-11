@@ -11,14 +11,26 @@ An in-depth paragraph about your project and overview of use.
 The projects directory structure can be seen below. 
 
 * scalar_quantization
+    * cosq_rate_2_G.ipynb
+    * cosq_rate_2_L.ipynb
+    * cosq_rate_3_G.ipynb
+    * cosq_rate_4_G.ipynb
 * vector_quantization
     * vector_train
+        * covq_design.py
+        * main_covq_train.py
+        * main_vq_train.py
     * vector_test
+        * decoder.py
+        * encoder.py
+        * main.py
     * vector_codebooks
         * covq
         * vq
     * vector_utils
 * conv_neural_network
+    * nn_eval.py
+    * nn_train.py
 * web_app
 * images
     * test
