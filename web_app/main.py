@@ -54,11 +54,11 @@ COVQ_RATES = {
 }
 
 # Codebook paths
-CODEBOOK_FILEPATH_COSQ = 'cosq_codebooks.json'
-CODEBOOK_FILEPATH_LM = 'lloydmax_codebooks.json'
-CODEBOOK_FILEPATH_COVQ = 'covq_codebooks.json'
+CODEBOOK_FILEPATH_COSQ = 'web_app/cosq_codebooks.json'
+CODEBOOK_FILEPATH_LM = 'web_app/lloydmax_codebooks.json'
+CODEBOOK_FILEPATH_COVQ = 'web_app/covq_codebooks.json'
 
-def list_images_in_folder(folder_path="images"):
+def list_images_in_folder(folder_path="web_app/images"):
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
         return []
@@ -251,7 +251,7 @@ def build_interface():
                 # Load default image
                 try:
                     # Process default image
-                    grey_img = cosq_grey_image_array("images/satelliteIMG01.jpg")
+                    grey_img = cosq_grey_image_array("web_app/images/satelliteIMG01.jpg")
                     cropped_img = crop_to_square(grey_img)
                     default_pil = Image.fromarray(cropped_img.astype(np.uint8))
                     default_array = cropped_img

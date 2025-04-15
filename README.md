@@ -59,6 +59,11 @@ The projects directory structure can be seen below.
     python3 -m vector_quantization.vector_test.main --k 16 --n 256 --epsilon 0.1 --image 'satelliteIMG02.jpg'
     ``` 
     * Default parameters are those seen in the command above.
+    * Run the following command for the webapp.
+    ```
+    python3 -m web_app/main.py
+    ```
+    
 
 
 ## Authors
