@@ -1,0 +1,1170 @@
+NPZ File Inspection Log
+Generated: 2025-04-02 11:50:02
+Directory: codebooks
+Total files: 24
+==================================================
+
+
+Inspecting: codebooks/VQcodebooks_2block.npz
+----------------------------------------
+Total arrays in file: 9
+
+1. Key: 'rate2'
+   - Shape: (4, 4)
+   - Data type: float64
+   - First 3 values: [0.46271768 0.46745686 0.47366556]
+   - Last 3 values: [1.43099302 1.43931294 1.43689096]
+
+2. Key: 'rate3'
+   - Shape: (8, 4)
+   - Data type: float64
+   - First 3 values: [1.10717033 1.11353011 1.12291478]
+   - Last 3 values: [-0.50032212 -0.49851229 -0.4918102 ]
+
+3. Key: 'rate4'
+   - Shape: (16, 4)
+   - Data type: float64
+   - First 3 values: [0.68544811 0.69159449 0.69617489]
+   - Last 3 values: [-1.67945699 -1.67587545 -1.66871543]
+
+4. Key: 'rate5'
+   - Shape: (32, 4)
+   - Data type: float64
+   - First 3 values: [0.81681944 0.82124287 0.82522722]
+   - Last 3 values: [-1.24713319 -1.27933912 -1.21406103]
+
+5. Key: 'rate6'
+   - Shape: (64, 4)
+   - Data type: float64
+   - First 3 values: [0.8551853  0.87621512 0.87103827]
+   - Last 3 values: [0.27896152 0.30783866 0.71733944]
+
+6. Key: 'rate7'
+   - Shape: (128, 4)
+   - Data type: float64
+   - First 3 values: [0.83217241 0.84898759 0.83850749]
+   - Last 3 values: [-0.52758995 -0.07712662 -0.15895288]
+
+7. Key: 'rate8'
+   - Shape: (256, 4)
+   - Data type: float64
+   - First 3 values: [0.77468323 0.85655932 0.80262532]
+   - Last 3 values: [1.42972396 1.42214252 1.53439195]
+
+8. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+9. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/VQcodebooks_4block.npz
+----------------------------------------
+Total arrays in file: 9
+
+1. Key: 'rate2'
+   - Shape: (4, 16)
+   - Data type: float64
+   - First 3 values: [0.44494489 0.45683324 0.45673181]
+   - Last 3 values: [1.42687563 1.42536155 1.40041693]
+
+2. Key: 'rate3'
+   - Shape: (8, 16)
+   - Data type: float64
+   - First 3 values: [0.69049926 0.70046751 0.70017103]
+   - Last 3 values: [0.37669601 0.37378973 0.36365502]
+
+3. Key: 'rate4'
+   - Shape: (16, 16)
+   - Data type: float64
+   - First 3 values: [0.70055169 0.7173339  0.72484909]
+   - Last 3 values: [-1.61153555 -1.60169481 -1.55710425]
+
+4. Key: 'rate5'
+   - Shape: (32, 16)
+   - Data type: float64
+   - First 3 values: [0.61119575 0.61931942 0.62486883]
+   - Last 3 values: [0.82170952 0.83113172 0.82434707]
+
+5. Key: 'rate6'
+   - Shape: (64, 16)
+   - Data type: float64
+   - First 3 values: [0.68973158 0.69204022 0.691612  ]
+   - Last 3 values: [-1.56548328 -1.55493306 -1.50534703]
+
+6. Key: 'rate7'
+   - Shape: (128, 16)
+   - Data type: float64
+   - First 3 values: [0.66707479 0.66973194 0.66712182]
+   - Last 3 values: [-0.93296987 -0.90548377 -1.30389337]
+
+7. Key: 'rate8'
+   - Shape: (256, 16)
+   - Data type: float64
+   - First 3 values: [0.73577947 0.72912824 0.72977807]
+   - Last 3 values: [1.05519118 2.03108645 1.93085937]
+
+8. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+9. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/VQcodebooks_8block.npz
+----------------------------------------
+Total arrays in file: 9
+
+1. Key: 'rate2'
+   - Shape: (4, 64)
+   - Data type: float64
+   - First 3 values: [0.40229821 0.4182092  0.43427009]
+   - Last 3 values: [1.38548337 1.36156954 1.32410454]
+
+2. Key: 'rate3'
+   - Shape: (8, 64)
+   - Data type: float64
+   - First 3 values: [0.52244087 0.53905299 0.54858395]
+   - Last 3 values: [ 0.04353913  0.01999841 -0.00183266]
+
+3. Key: 'rate4'
+   - Shape: (16, 64)
+   - Data type: float64
+   - First 3 values: [0.63689487 0.64632756 0.65428285]
+   - Last 3 values: [1.09686803 1.08214314 1.05232655]
+
+4. Key: 'rate5'
+   - Shape: (32, 64)
+   - Data type: float64
+   - First 3 values: [0.6766699  0.69577609 0.7118716 ]
+   - Last 3 values: [ 0.25721096 -0.00270808 -0.21946713]
+
+5. Key: 'rate6'
+   - Shape: (64, 64)
+   - Data type: float64
+   - First 3 values: [0.64293852 0.64532083 0.64401623]
+   - Last 3 values: [1.10827197 0.96683309 0.75912565]
+
+6. Key: 'rate7'
+   - Shape: (128, 64)
+   - Data type: float64
+   - First 3 values: [0.63401532 0.63355259 0.62809239]
+   - Last 3 values: [-0.19620096 -0.24367694 -0.26818068]
+
+7. Key: 'rate8'
+   - Shape: (256, 64)
+   - Data type: float64
+   - First 3 values: [0.62394257 0.63170403 0.6276721 ]
+   - Last 3 values: [-1.61533306 -1.60346407 -1.50455576]
+
+8. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+9. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_2block_rate2.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (4, 4)
+   - Data type: float64
+   - First 3 values: [-1.44655836 -1.44784833 -1.44097375]
+   - Last 3 values: [1.42588368 1.43469147 1.43199405]
+
+2. Key: 'epsilon1'
+   - Shape: (4, 4)
+   - Data type: float64
+   - First 3 values: [-1.43143815 -1.43252101 -1.42576842]
+   - Last 3 values: [1.40516453 1.41373045 1.41113357]
+
+3. Key: 'epsilon2'
+   - Shape: (4, 4)
+   - Data type: float64
+   - First 3 values: [-1.41560303 -1.41705733 -1.41012244]
+   - Last 3 values: [1.38656646 1.39511848 1.3925718 ]
+
+4. Key: 'epsilon3'
+   - Shape: (4, 4)
+   - Data type: float64
+   - First 3 values: [-1.30062718 -1.30213394 -1.29487767]
+   - Last 3 values: [1.23886513 1.24756008 1.24535151]
+
+5. Key: 'epsilon4'
+   - Shape: (4, 4)
+   - Data type: float64
+   - First 3 values: [-1.18770181 -1.18826783 -1.18149993]
+   - Last 3 values: [1.03460012 1.04157196 1.04053029]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_2block_rate3.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (8, 4)
+   - Data type: float64
+   - First 3 values: [1.11253822 1.11893163 1.12771711]
+   - Last 3 values: [1.67829813 1.68539842 1.68436424]
+
+2. Key: 'epsilon1'
+   - Shape: (8, 4)
+   - Data type: float64
+   - First 3 values: [1.10731388 1.11340076 1.12264287]
+   - Last 3 values: [1.66743878 1.67412115 1.67343651]
+
+3. Key: 'epsilon2'
+   - Shape: (8, 4)
+   - Data type: float64
+   - First 3 values: [1.098076   1.10409668 1.11358904]
+   - Last 3 values: [1.65418925 1.66100467 1.66061006]
+
+4. Key: 'epsilon3'
+   - Shape: (8, 4)
+   - Data type: float64
+   - First 3 values: [1.06658643 1.071686   1.0811662 ]
+   - Last 3 values: [1.58279853 1.58996002 1.58889422]
+
+5. Key: 'epsilon4'
+   - Shape: (8, 4)
+   - Data type: float64
+   - First 3 values: [1.05056462 1.05564217 1.06370837]
+   - Last 3 values: [1.51396166 1.52169701 1.52035767]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_2block_rate4.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (16, 4)
+   - Data type: float64
+   - First 3 values: [-1.16842236 -1.06844193 -1.15645344]
+   - Last 3 values: [-1.21807905 -0.51191906 -1.24860221]
+
+2. Key: 'epsilon1'
+   - Shape: (16, 4)
+   - Data type: float64
+   - First 3 values: [-1.13237157 -1.03596739 -1.11734815]
+   - Last 3 values: [-1.19504361 -0.52194125 -1.22564693]
+
+3. Key: 'epsilon2'
+   - Shape: (16, 4)
+   - Data type: float64
+   - First 3 values: [-1.12180641 -1.02951768 -1.10651988]
+   - Last 3 values: [-1.17523992 -0.53681012 -1.20932014]
+
+4. Key: 'epsilon3'
+   - Shape: (16, 4)
+   - Data type: float64
+   - First 3 values: [-1.06291928 -0.98959811 -1.04825899]
+   - Last 3 values: [-1.09287971 -0.61933578 -1.10793797]
+
+5. Key: 'epsilon4'
+   - Shape: (16, 4)
+   - Data type: float64
+   - First 3 values: [-1.0332989  -0.98789549 -1.01989785]
+   - Last 3 values: [-1.02950667 -0.67164352 -1.03341674]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_2block_rate5.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (32, 4)
+   - Data type: float64
+   - First 3 values: [1.37826009 1.39050137 1.3956629 ]
+   - Last 3 values: [1.13126939 0.96554082 1.40125427]
+
+2. Key: 'epsilon1'
+   - Shape: (32, 4)
+   - Data type: float64
+   - First 3 values: [1.27532998 1.28765117 1.29527501]
+   - Last 3 values: [1.18830187 0.92027212 1.42137209]
+
+3. Key: 'epsilon2'
+   - Shape: (32, 4)
+   - Data type: float64
+   - First 3 values: [1.25116007 1.26409485 1.27480365]
+   - Last 3 values: [1.18715006 0.92926412 1.41283203]
+
+4. Key: 'epsilon3'
+   - Shape: (32, 4)
+   - Data type: float64
+   - First 3 values: [1.12841216 1.17110719 1.15328594]
+   - Last 3 values: [1.28981548 1.27596096 1.3108023 ]
+
+5. Key: 'epsilon4'
+   - Shape: (32, 4)
+   - Data type: float64
+   - First 3 values: [1.12814904 1.16523453 1.15235841]
+   - Last 3 values: [1.28460557 1.27139395 1.3019485 ]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_2block_rate6.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (64, 4)
+   - Data type: float64
+   - First 3 values: [1.51201567 0.84031838 1.71651408]
+   - Last 3 values: [1.30631416 1.42167247 0.63665287]
+
+2. Key: 'epsilon1'
+   - Shape: (64, 4)
+   - Data type: float64
+   - First 3 values: [1.4755015  0.80223588 1.68088492]
+   - Last 3 values: [1.2765797  1.40016174 0.6075914 ]
+
+3. Key: 'epsilon2'
+   - Shape: (64, 4)
+   - Data type: float64
+   - First 3 values: [1.40760857 0.7850044  1.63932031]
+   - Last 3 values: [1.25119121 1.34116534 0.63756627]
+
+4. Key: 'epsilon3'
+   - Shape: (64, 4)
+   - Data type: float64
+   - First 3 values: [1.25545155 1.2261142  1.26596931]
+   - Last 3 values: [1.26216066 1.28776267 1.25627497]
+
+5. Key: 'epsilon4'
+   - Shape: (64, 4)
+   - Data type: float64
+   - First 3 values: [1.26066319 1.23473114 1.27129976]
+   - Last 3 values: [1.27552286 1.30111702 1.27135916]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_2block_rate7.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (128, 4)
+   - Data type: float64
+   - First 3 values: [1.17451971 1.33518844 1.0353401 ]
+   - Last 3 values: [1.18888977 1.22680629 0.89616135]
+
+2. Key: 'epsilon1'
+   - Shape: (128, 4)
+   - Data type: float64
+   - First 3 values: [1.14408825 1.38717516 0.98404996]
+   - Last 3 values: [1.34032759 1.27919645 1.10112767]
+
+3. Key: 'epsilon2'
+   - Shape: (128, 4)
+   - Data type: float64
+   - First 3 values: [1.48020202 1.48014328 1.45238782]
+   - Last 3 values: [1.49500602 1.47100908 1.46326375]
+
+4. Key: 'epsilon3'
+   - Shape: (128, 4)
+   - Data type: float64
+   - First 3 values: [1.57283022 1.57910434 1.574883  ]
+   - Last 3 values: [1.55824186 1.55922889 1.55259052]
+
+5. Key: 'epsilon4'
+   - Shape: (128, 4)
+   - Data type: float64
+   - First 3 values: [1.56892098 1.57902938 1.57506911]
+   - Last 3 values: [1.55076684 1.55035443 1.55164687]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_2block_rate8.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (256, 4)
+   - Data type: float64
+   - First 3 values: [0.46481471 0.5547004  0.49216175]
+   - Last 3 values: [0.54225618 0.66469425 0.10872546]
+
+2. Key: 'epsilon1'
+   - Shape: (256, 4)
+   - Data type: float64
+   - First 3 values: [0.39746542 0.61053315 0.45893994]
+   - Last 3 values: [0.54210517 0.67241877 0.15637171]
+
+3. Key: 'epsilon2'
+   - Shape: (256, 4)
+   - Data type: float64
+   - First 3 values: [0.52461595 0.54045884 0.53654667]
+   - Last 3 values: [0.52941222 0.52407302 0.53696732]
+
+4. Key: 'epsilon3'
+   - Shape: (256, 4)
+   - Data type: float64
+   - First 3 values: [0.42457426 0.44409332 0.43912636]
+   - Last 3 values: [0.4052067  0.40634129 0.41522603]
+
+5. Key: 'epsilon4'
+   - Shape: (256, 4)
+   - Data type: float64
+   - First 3 values: [0.40202475 0.41403316 0.41395831]
+   - Last 3 values: [0.38800826 0.39166493 0.39568846]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_4block_rate2.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (4, 16)
+   - Data type: float64
+   - First 3 values: [-1.37313592 -1.40992068 -1.41659991]
+   - Last 3 values: [1.42379739 1.42271354 1.39800412]
+
+2. Key: 'epsilon1'
+   - Shape: (4, 16)
+   - Data type: float64
+   - First 3 values: [-1.35570844 -1.39277302 -1.40052702]
+   - Last 3 values: [1.40234132 1.40146273 1.37745316]
+
+3. Key: 'epsilon2'
+   - Shape: (4, 16)
+   - Data type: float64
+   - First 3 values: [-1.34291781 -1.3794852  -1.38677108]
+   - Last 3 values: [1.38292382 1.38229866 1.35879354]
+
+4. Key: 'epsilon3'
+   - Shape: (4, 16)
+   - Data type: float64
+   - First 3 values: [-1.23453073 -1.26869219 -1.27704024]
+   - Last 3 values: [1.23154085 1.2312517  1.21125906]
+
+5. Key: 'epsilon4'
+   - Shape: (4, 16)
+   - Data type: float64
+   - First 3 values: [-1.12435594 -1.15277667 -1.1593409 ]
+   - Last 3 values: [1.03850445 1.03764643 1.02335813]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_4block_rate3.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (8, 16)
+   - Data type: float64
+   - First 3 values: [1.0784998  1.10936978 1.12592002]
+   - Last 3 values: [1.67672234 1.67754773 1.65738639]
+
+2. Key: 'epsilon1'
+   - Shape: (8, 16)
+   - Data type: float64
+   - First 3 values: [1.07506929 1.10552383 1.12205888]
+   - Last 3 values: [1.66652663 1.66716143 1.64704241]
+
+3. Key: 'epsilon2'
+   - Shape: (8, 16)
+   - Data type: float64
+   - First 3 values: [1.06574584 1.09631238 1.11185515]
+   - Last 3 values: [1.65438384 1.65491996 1.63344839]
+
+4. Key: 'epsilon3'
+   - Shape: (8, 16)
+   - Data type: float64
+   - First 3 values: [1.0307585  1.05863991 1.07464099]
+   - Last 3 values: [1.58045752 1.57949668 1.55652622]
+
+5. Key: 'epsilon4'
+   - Shape: (8, 16)
+   - Data type: float64
+   - First 3 values: [1.01337674 1.03888639 1.0525371 ]
+   - Last 3 values: [1.50850052 1.50740195 1.48668238]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_4block_rate4.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (16, 16)
+   - Data type: float64
+   - First 3 values: [ 0.02239584 -0.3365487  -0.9016374 ]
+   - Last 3 values: [-1.34266107 -1.02694183 -0.65225158]
+
+2. Key: 'epsilon1'
+   - Shape: (16, 16)
+   - Data type: float64
+   - First 3 values: [-0.0020793  -0.35769321 -0.90882442]
+   - Last 3 values: [-1.31436633 -1.01400113 -0.66513357]
+
+3. Key: 'epsilon2'
+   - Shape: (16, 16)
+   - Data type: float64
+   - First 3 values: [-0.02782685 -0.37329817 -0.90678837]
+   - Last 3 values: [-1.28694811 -0.99596636 -0.66369595]
+
+4. Key: 'epsilon3'
+   - Shape: (16, 16)
+   - Data type: float64
+   - First 3 values: [-0.36984313 -0.63626924 -0.99147366]
+   - Last 3 values: [-0.97906863 -0.9040422  -0.85652045]
+
+5. Key: 'epsilon4'
+   - Shape: (16, 16)
+   - Data type: float64
+   - First 3 values: [-0.41897287 -0.65321506 -0.96205075]
+   - Last 3 values: [-0.9414432  -0.91176456 -0.89742549]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_4block_rate5.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (32, 16)
+   - Data type: float64
+   - First 3 values: [0.53944111 0.44336494 0.18315502]
+   - Last 3 values: [1.15393303 1.39331034 1.45000496]
+
+2. Key: 'epsilon1'
+   - Shape: (32, 16)
+   - Data type: float64
+   - First 3 values: [0.56800509 0.47414866 0.22866966]
+   - Last 3 values: [1.13557185 1.37115943 1.42287771]
+
+3. Key: 'epsilon2'
+   - Shape: (32, 16)
+   - Data type: float64
+   - First 3 values: [0.69370866 0.54707658 0.25385963]
+   - Last 3 values: [0.97114033 1.17099017 1.20575275]
+
+4. Key: 'epsilon3'
+   - Shape: (32, 16)
+   - Data type: float64
+   - First 3 values: [0.62875134 0.63231091 0.63204399]
+   - Last 3 values: [0.7197405  0.73198245 0.74279278]
+
+5. Key: 'epsilon4'
+   - Shape: (32, 16)
+   - Data type: float64
+   - First 3 values: [0.67805718 0.68752276 0.68963997]
+   - Last 3 values: [0.77455749 0.78742768 0.7934677 ]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_4block_rate6.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (64, 16)
+   - Data type: float64
+   - First 3 values: [0.96078714 0.98761776 1.00355454]
+   - Last 3 values: [0.8680289  0.75235824 0.6130537 ]
+
+2. Key: 'epsilon1'
+   - Shape: (64, 16)
+   - Data type: float64
+   - First 3 values: [0.84002888 0.88238146 0.92031524]
+   - Last 3 values: [0.87839559 0.79254698 0.66529877]
+
+3. Key: 'epsilon2'
+   - Shape: (64, 16)
+   - Data type: float64
+   - First 3 values: [0.8221005  0.86644088 0.90372145]
+   - Last 3 values: [0.89134649 0.79223963 0.65525865]
+
+4. Key: 'epsilon3'
+   - Shape: (64, 16)
+   - Data type: float64
+   - First 3 values: [0.8653079  0.86753483 0.85939156]
+   - Last 3 values: [0.95542015 0.94175981 0.9172709 ]
+
+5. Key: 'epsilon4'
+   - Shape: (64, 16)
+   - Data type: float64
+   - First 3 values: [0.88364081 0.8876209  0.88209218]
+   - Last 3 values: [0.97039841 0.96084475 0.93816785]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_4block_rate7.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (128, 16)
+   - Data type: float64
+   - First 3 values: [ 0.83051946  0.43488624 -0.37364419]
+   - Last 3 values: [ 0.26759438  0.25383322 -0.5133512 ]
+
+2. Key: 'epsilon1'
+   - Shape: (128, 16)
+   - Data type: float64
+   - First 3 values: [ 0.82117794  0.42907516 -0.37355481]
+   - Last 3 values: [ 0.26193716  0.24797989 -0.51061523]
+
+3. Key: 'epsilon2'
+   - Shape: (128, 16)
+   - Data type: float64
+   - First 3 values: [ 0.81062418  0.42258322 -0.3733408 ]
+   - Last 3 values: [ 0.25604353  0.23934247 -0.48830748]
+
+4. Key: 'epsilon3'
+   - Shape: (128, 16)
+   - Data type: float64
+   - First 3 values: [ 0.74465612  0.36078575 -0.40068104]
+   - Last 3 values: [ 0.18992301  0.25388697 -0.34256004]
+
+5. Key: 'epsilon4'
+   - Shape: (128, 16)
+   - Data type: float64
+   - First 3 values: [ 0.69051905  0.34741252 -0.3795135 ]
+   - Last 3 values: [ 0.13240441  0.20630486 -0.3148976 ]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_4block_rate8.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (256, 16)
+   - Data type: float64
+   - First 3 values: [-0.53657315 -0.28336789  0.01731336]
+   - Last 3 values: [0.27271658 0.24516879 0.22934346]
+
+2. Key: 'epsilon1'
+   - Shape: (256, 16)
+   - Data type: float64
+   - First 3 values: [-0.62677044 -0.35377793 -0.02445654]
+   - Last 3 values: [0.22460912 0.21140441 0.22170954]
+
+3. Key: 'epsilon2'
+   - Shape: (256, 16)
+   - Data type: float64
+   - First 3 values: [-5.92730622e-01 -3.23998017e-01  4.36065494e-04]
+   - Last 3 values: [0.2247182  0.27140951 0.29491277]
+
+4. Key: 'epsilon3'
+   - Shape: (256, 16)
+   - Data type: float64
+   - First 3 values: [-0.69766359 -0.67220811 -0.62924333]
+   - Last 3 values: [1.04684561 1.04217798 1.0179483 ]
+
+5. Key: 'epsilon4'
+   - Shape: (256, 16)
+   - Data type: float64
+   - First 3 values: [-0.72234936 -0.69751123 -0.66090057]
+   - Last 3 values: [0.94323807 0.93688248 0.90920574]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_8block_rate2.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (4, 64)
+   - Data type: float64
+   - First 3 values: [-1.20016272 -1.26700989 -1.3230623 ]
+   - Last 3 values: [1.38548337 1.36156954 1.32410454]
+
+2. Key: 'epsilon1'
+   - Shape: (4, 64)
+   - Data type: float64
+   - First 3 values: [-1.18933667 -1.25574791 -1.31136883]
+   - Last 3 values: [1.36689277 1.34337458 1.30663442]
+
+3. Key: 'epsilon2'
+   - Shape: (4, 64)
+   - Data type: float64
+   - First 3 values: [-1.17753983 -1.24342355 -1.29854486]
+   - Last 3 values: [1.34731548 1.32422348 1.28829364]
+
+4. Key: 'epsilon3'
+   - Shape: (4, 64)
+   - Data type: float64
+   - First 3 values: [-1.07708665 -1.14219841 -1.19601531]
+   - Last 3 values: [1.19654673 1.17681263 1.1468825 ]
+
+5. Key: 'epsilon4'
+   - Shape: (4, 64)
+   - Data type: float64
+   - First 3 values: [-0.96931844 -1.0274673  -1.07306142]
+   - Last 3 values: [0.99641152 0.98233309 0.96310379]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_8block_rate3.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (8, 64)
+   - Data type: float64
+   - First 3 values: [-1.39616583 -1.45677022 -1.49460344]
+   - Last 3 values: [-1.32277916 -1.34584243 -1.33529221]
+
+2. Key: 'epsilon1'
+   - Shape: (8, 64)
+   - Data type: float64
+   - First 3 values: [-1.39478259 -1.45569456 -1.49394133]
+   - Last 3 values: [-1.30186972 -1.32487976 -1.32913966]
+
+3. Key: 'epsilon2'
+   - Shape: (8, 64)
+   - Data type: float64
+   - First 3 values: [-1.39476095 -1.45716463 -1.49554234]
+   - Last 3 values: [-1.29984254 -1.32351291 -1.32556454]
+
+4. Key: 'epsilon3'
+   - Shape: (8, 64)
+   - Data type: float64
+   - First 3 values: [-1.36424758 -1.4264108  -1.4633356 ]
+   - Last 3 values: [-1.14271888 -1.14991812 -1.12696175]
+
+5. Key: 'epsilon4'
+   - Shape: (8, 64)
+   - Data type: float64
+   - First 3 values: [-1.33685868 -1.39969726 -1.43608887]
+   - Last 3 values: [-1.11967296 -1.1187823  -1.07903593]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_8block_rate4.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (16, 64)
+   - Data type: float64
+   - First 3 values: [-1.43826005 -1.49935823 -1.53643914]
+   - Last 3 values: [-1.05630453 -1.08635814 -1.06908094]
+
+2. Key: 'epsilon1'
+   - Shape: (16, 64)
+   - Data type: float64
+   - First 3 values: [-1.44117884 -1.5046796  -1.53744663]
+   - Last 3 values: [-1.04061933 -1.04604025 -0.99860523]
+
+3. Key: 'epsilon2'
+   - Shape: (16, 64)
+   - Data type: float64
+   - First 3 values: [-1.44205161 -1.50520205 -1.53474427]
+   - Last 3 values: [-1.07106905 -1.072872   -1.03072737]
+
+4. Key: 'epsilon3'
+   - Shape: (16, 64)
+   - Data type: float64
+   - First 3 values: [-1.42514242 -1.4871276  -1.51641142]
+   - Last 3 values: [-1.09712817 -1.0911767  -1.04591684]
+
+5. Key: 'epsilon4'
+   - Shape: (16, 64)
+   - Data type: float64
+   - First 3 values: [-1.4005117  -1.46467757 -1.49621956]
+   - Last 3 values: [-1.11343539 -1.10837948 -1.05361734]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_8block_rate5.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (32, 64)
+   - Data type: float64
+   - First 3 values: [-1.53675945 -1.54901132 -1.35349194]
+   - Last 3 values: [0.03943951 0.13536836 0.25571901]
+
+2. Key: 'epsilon1'
+   - Shape: (32, 64)
+   - Data type: float64
+   - First 3 values: [-1.51973715 -1.52682811 -1.32760125]
+   - Last 3 values: [0.00690886 0.1236766  0.25950561]
+
+3. Key: 'epsilon2'
+   - Shape: (32, 64)
+   - Data type: float64
+   - First 3 values: [-1.44848763 -1.40416543 -1.11352117]
+   - Last 3 values: [-0.02125162  0.11512425  0.25271676]
+
+4. Key: 'epsilon3'
+   - Shape: (32, 64)
+   - Data type: float64
+   - First 3 values: [-1.34418065 -1.21328056 -0.93262621]
+   - Last 3 values: [-0.04071363  0.11511623  0.25659592]
+
+5. Key: 'epsilon4'
+   - Shape: (32, 64)
+   - Data type: float64
+   - First 3 values: [-1.25127144 -1.12153798 -0.84992864]
+   - Last 3 values: [-0.00507342  0.15147771  0.28140936]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_8block_rate6.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (64, 64)
+   - Data type: float64
+   - First 3 values: [-1.50917148 -1.58454468 -1.61274623]
+   - Last 3 values: [-1.30938677 -1.22796485 -1.11030172]
+
+2. Key: 'epsilon1'
+   - Shape: (64, 64)
+   - Data type: float64
+   - First 3 values: [-1.49538628 -1.57362779 -1.60950991]
+   - Last 3 values: [-1.30148831 -1.22432031 -1.12218268]
+
+3. Key: 'epsilon2'
+   - Shape: (64, 64)
+   - Data type: float64
+   - First 3 values: [-1.48391116 -1.56253081 -1.60577712]
+   - Last 3 values: [-1.30941905 -1.24667712 -1.16217323]
+
+4. Key: 'epsilon3'
+   - Shape: (64, 64)
+   - Data type: float64
+   - First 3 values: [-1.46361651 -1.53841921 -1.58754246]
+   - Last 3 values: [-1.29396962 -1.25748533 -1.17777513]
+
+5. Key: 'epsilon4'
+   - Shape: (64, 64)
+   - Data type: float64
+   - First 3 values: [-1.45568879 -1.52700238 -1.5731114 ]
+   - Last 3 values: [-1.27893607 -1.22700479 -1.13508827]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_8block_rate7.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (128, 64)
+   - Data type: float64
+   - First 3 values: [ 0.38788981  0.13995966 -0.22929801]
+   - Last 3 values: [-0.36381331 -0.50887882 -0.59064302]
+
+2. Key: 'epsilon1'
+   - Shape: (128, 64)
+   - Data type: float64
+   - First 3 values: [ 0.36430334  0.12233416 -0.23747598]
+   - Last 3 values: [-0.3650939  -0.50593689 -0.58572964]
+
+3. Key: 'epsilon2'
+   - Shape: (128, 64)
+   - Data type: float64
+   - First 3 values: [ 0.34362235  0.10684698 -0.24494815]
+   - Last 3 values: [-0.36592238 -0.50292703 -0.58077266]
+
+4. Key: 'epsilon3'
+   - Shape: (128, 64)
+   - Data type: float64
+   - First 3 values: [ 0.18823585 -0.01671795 -0.31597909]
+   - Last 3 values: [-0.3953679  -0.50469396 -0.56841838]
+
+5. Key: 'epsilon4'
+   - Shape: (128, 64)
+   - Data type: float64
+   - First 3 values: [ 0.07444546 -0.10303756 -0.36512395]
+   - Last 3 values: [-0.31330659 -0.36684948 -0.45928443]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
+
+Inspecting: codebooks/codebooks_8block_rate8.npz
+----------------------------------------
+Total arrays in file: 7
+
+1. Key: 'epsilon0'
+   - Shape: (256, 64)
+   - Data type: float64
+   - First 3 values: [-1.61823437 -1.58183612 -1.59607891]
+   - Last 3 values: [0.1491911  0.33513871 0.25337452]
+
+2. Key: 'epsilon1'
+   - Shape: (256, 64)
+   - Data type: float64
+   - First 3 values: [-1.58153043 -1.55656416 -1.56534012]
+   - Last 3 values: [0.00179042 0.20401542 0.19584655]
+
+3. Key: 'epsilon2'
+   - Shape: (256, 64)
+   - Data type: float64
+   - First 3 values: [-1.59165862 -1.53813202 -1.54179726]
+   - Last 3 values: [-0.01034858  0.18991712  0.18245128]
+
+4. Key: 'epsilon3'
+   - Shape: (256, 64)
+   - Data type: float64
+   - First 3 values: [-1.56333184 -1.5573193  -1.58566331]
+   - Last 3 values: [-0.07807028  0.07310784  0.06627486]
+
+5. Key: 'epsilon4'
+   - Shape: (256, 64)
+   - Data type: float64
+   - First 3 values: [-1.47674308 -1.49450733 -1.5273112 ]
+   - Last 3 values: [-0.09102633  0.02994133  0.0070016 ]
+
+6. Key: 'mean'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+117.65597152709961
+
+7. Key: 'std'
+   - Shape: ()
+   - Data type: float64
+   - Values:
+63.189840265274434
+
