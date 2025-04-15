@@ -1,0 +1,14 @@
+Generating source data from 'dc' distribution...
+Building Lloyd–Max quantizer: rate=3, num_centroids=8
+Building Lloyd–Max quantizer: rate=4, num_centroids=16
+Building Lloyd–Max quantizer: rate=5, num_centroids=32
+Building Lloyd–Max quantizer: rate=6, num_centroids=64
+Building Lloyd–Max quantizer: rate=7, num_centroids=128
+Building Lloyd–Max quantizer: rate=8, num_centroids=256
+Generating source data from 'ac' distribution...
+Building Lloyd–Max quantizer: rate=3, num_centroids=8
+Building Lloyd–Max quantizer: rate=4, num_centroids=16
+Building Lloyd–Max quantizer: rate=5, num_centroids=32
+Building Lloyd–Max quantizer: rate=6, num_centroids=64
+Building Lloyd–Max quantizer: rate=7, num_centroids=128
+Building Lloyd–Max quantizer: rate=8, num_centroids=256
